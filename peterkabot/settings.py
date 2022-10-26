@@ -17,7 +17,7 @@ NEWSPIDER_MODULE = 'peterkabot.spiders'
 #USER_AGENT = 'peterkabot (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
-# ROBOTSTXT_OBEY = True
+#ROBOTSTXT_OBEY = True
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
@@ -63,7 +63,7 @@ NEWSPIDER_MODULE = 'peterkabot.spiders'
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'peterkabot.pipelines.DublicatesPipeLine': 100,
+    # 'peterkabot.pipelines.DublicatesPipeLine': 100,
     'peterkabot.pipelines.CsvWriterPipeline': 200,
     'peterkabot.pipelines.JsonWriterPipeline': 300,
 }
