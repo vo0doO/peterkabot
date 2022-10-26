@@ -118,6 +118,7 @@ discount	name	weight_volume_price	price	old_price	image_link
 0	Пакеты Liberhaus для продуктов 26x36см, 100шт	1 шт / 59.99 руб	59.99	Отсутствует	https://photos.5-delivery.ru/big/product/1185231-main
 0	Молоко Сарафаново пастеризованное 2.5% 930мл	1 шт / 68.99 руб	68.99	Отсутствует	https://photos.5-delivery.ru/big/product/1180122-main
 26.32	Фарш Мираторг любительский 400г	1 шт / 139.99 руб	139.99	189.99	https://photos.5-delivery.ru/big/product/1185531-main
+0	Морковь мытая	1 шт / 59.99 руб	59.99	Отсутствует	https://photos.5-delivery.ru/big/product/1157437-main
 0	Капуста квашеная Global Village с морковью, 700г	1 шт / 129.99 руб	129.99	Отсутствует	https://photos.5-delivery.ru/big/product/1183046-main
 0	Салфетки Красная Цена влажные детские 60шт.	1 шт / 54.99 руб	54.99	Отсутствует	https://photos.5-delivery.ru/big/product/1450474-main
 0	Рис Селяночка круглозёрный шлифованный, 900г	1 шт / 99.99 руб	99.99	Отсутствует	https://photos.5-delivery.ru/big/product/1165145-main
@@ -1350,6 +1351,7 @@ discount	name	weight_volume_price	price	old_price	image_link
 0	Хренодёр Global Village классический упаковка в ассортименте 200г	1 шт / 69.99 руб	69.99	Отсутствует	https://photos.5-delivery.ru/big/product/1183056-main
 20	Торт Шарлиз медовик 350г	1 шт / 159.99 руб	159.99	199.99	https://photos.5-delivery.ru/big/product/1437469-main
 0	Соус Mivimex Кавказский особо острый 200г	1 шт / 62.99 руб	62.99	Отсутствует	https://photos.5-delivery.ru/big/product/1176463-main
+0	Яйцо Kinder Сюрприз из молочного шоколада с игрушкой в ассортименте 20г	1 шт / 102.99 руб	102.99	Отсутствует	https://photos.5-delivery.ru/big/product/1162640-main
 17.31	Хлебцы Щедрые ржаные, 100г	1 шт / 42.99 руб	42.99	51.99	https://photos.5-delivery.ru/big/product/1163247-main
 0	Кетчуп Красная Цена Томатный 1 категория 230г	1 шт / 21.99 руб	21.99	Отсутствует	https://photos.5-delivery.ru/big/product/1189643-main
 0	Томаты Global Village в томатном соке, 680 г	1 шт / 114.99 руб	114.99	Отсутствует	https://photos.5-delivery.ru/big/product/1165722-main
@@ -1556,6 +1558,7 @@ discount	name	weight_volume_price	price	old_price	image_link
 0	Пломбир Коровка Из Кореновки с шоколадной стружкой, 400г	1 шт / 299.99 руб	299.99	Отсутствует	https://photos.5-delivery.ru/big/product/1169370-main
 0	Оливки Global Village зелёные с анчоусом 300г	1 шт / 104.99 руб	104.99	Отсутствует	https://photos.5-delivery.ru/big/product/1164523-main
 0	Рис Националь Краснодарский, 900г	1 шт / 119.99 руб	119.99	Отсутствует	https://photos.5-delivery.ru/big/product/1157775-main
+0	Яйцо Kinder Сюрприз из молочного шоколада с игрушкой в ассортименте 20г	1 шт / 102.99 руб	102.99	Отсутствует	https://photos.5-delivery.ru/big/product/1162807-main
 0	Карбонад Великолукский МК Славянский копчёно-варёный, 300г	1 шт / 238.99 руб	238.99	Отсутствует	https://photos.5-delivery.ru/big/product/1175008-main
 0	Средство Sanfor 5 минут для устранения засоров, 750мл	1 шт / 169.99 руб	169.99	Отсутствует	https://photos.5-delivery.ru/big/product/1163500-main
 0	Перец Global Village Selection зеленый резаный маринованный 350г	1 шт / 139.99 руб	139.99	Отсутствует	https://photos.5-delivery.ru/big/product/1430462-main
@@ -1783,6 +1786,7 @@ discount	name	weight_volume_price	price	old_price	image_link
 0	Колбаса Красная Цена Ароматная с/к 300г	1 шт / 109.99 руб	109.99	Отсутствует	https://photos.5-delivery.ru/big/product/1212456-main
 0	Ветчина Красная Цена из индейки 400г	1 шт / 83.49 руб	83.49	Отсутствует	https://photos.5-delivery.ru/big/product/1184494-main
 16.67	Торт Mirel карамельный на сгущёнке 700г	1 шт / 339.99 руб	339.99	407.99	https://photos.5-delivery.ru/big/product/1391509-main
+0	Энергетический напиток Adrenaline Rush без сахара 0.449л	1 шт / 99.99 руб	99.99	Отсутствует	https://photos.5-delivery.ru/big/product/1448890-main
 0	Печень свиная замороженная	1 кг / 169.99 руб	135.99	Отсутствует	https://photos.5-delivery.ru/big/product/1165876-main
 0	Опята Global Village, 330г	1 шт / 139.99 руб	139.99	Отсутствует	https://photos.5-delivery.ru/big/product/1165316-main
 18.48	Корм сухой Purina One с говядиной и пшеницей для стерилизованных кошек, 750г	1 шт / 299.99 руб	299.99	367.99	https://photos.5-delivery.ru/big/product/1174392-main
@@ -2967,6 +2971,7 @@ discount	name	weight_volume_price	price	old_price	image_link
 35.49	Колбаса варёная Папа Может, 500г	1 шт / 199.99 руб	199.99	309.99	https://photos.5-delivery.ru/big/product/1169506-main
 0	Желе Желейка Вишня, яблоко, персик с пузырьками 150г	1 шт / 29.99 руб	29.99	Отсутствует	https://photos.5-delivery.ru/big/product/1411955-main
 0	Тампоны Tampax Compak super plus, 16шт	1 шт / 379.99 руб	379.99	Отсутствует	https://photos.5-delivery.ru/big/product/1159854-main
+0	Яйцо Kinder Joy из молочного шоколада с игрушкой в ассортименте 20г	1 шт / 128.99 руб	128.99	Отсутствует	https://photos.5-delivery.ru/big/product/1160484-main
 0	Котлеты рыбные Polar панированные в сухарях обжаренные замороженные, 425г	1 шт / 159.99 руб	159.99	Отсутствует	https://photos.5-delivery.ru/big/product/1184667-main
 21.05	Шампунь Syoss Volume с экстрактом фиолетового риса для тонких волос 0.45л	1 шт / 299.99 руб	299.99	379.99	https://photos.5-delivery.ru/big/product/1208715-main
 0	Облепиха Варенька протертая, 350г	1 шт / 144.99 руб	144.99	Отсутствует	https://photos.5-delivery.ru/big/product/1193615-main
@@ -2995,6 +3000,7 @@ discount	name	weight_volume_price	price	old_price	image_link
 0	Сосиски Красная Цена Аппетитные вареные 300г	1 шт / 25.99 руб	25.99	Отсутствует	https://photos.5-delivery.ru/big/product/1188128-main
 0	Бальзам-ополаскиватель Pantene Pro-V густые и крепкие, 200мл	1 шт / 299.99 руб	299.99	Отсутствует	https://photos.5-delivery.ru/big/product/1159859-main
 0	Трусики-подгузники Huggies для мальчиков и девочек р.5 12-17кг 48шт	1 шт / 1666 руб	1666	Отсутствует	https://photos.5-delivery.ru/big/product/1209173-main
+50	Колбаса варёная Великолукский МК Докторская, 500г	1 шт / 279.98 руб	279.98	279.98	https://photos.5-delivery.ru/big/product/1169464-main
 18.34	Хлебцы Хлебцы Молодцы Бородинские цельнозерновые, 150г	1 шт / 48.99 руб	48.99	59.99	https://photos.5-delivery.ru/big/product/1169797-main
 0	Конфеты Mamba Тропикс жевательные яблоко-киви, 26.5г	1 шт / 30.49 руб	30.49	Отсутствует	https://photos.5-delivery.ru/big/product/1194134-main
 0	Котлеты Красная цена куриные охлажденные 480г	1 шт / 134.99 руб	134.99	Отсутствует	https://photos.5-delivery.ru/big/product/1428710-main
