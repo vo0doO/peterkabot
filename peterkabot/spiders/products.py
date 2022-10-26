@@ -1,3 +1,4 @@
+import json
 import scrapy
 from scrapy.http.request.json_request import JsonRequest
 
@@ -17,7 +18,7 @@ class ProductsSpider(scrapy.Spider):
 
     def parse(self, response):
 
-        res = response.json()
+        res = json.loads(response.body)
         products = res["ANS"]["products"]
 
         for product in products:
